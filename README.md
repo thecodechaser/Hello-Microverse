@@ -15,9 +15,7 @@ Porject's features are added into seperate branch to keep main branch safe.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-Live Demo link will be updated after this project is approved by Code Reviewer Team
+[Live Demo Link](https://thecodechaser.github.io/Hello-Microverse/)
 
 
 ## Getting Started
