@@ -27,13 +27,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Visit And Open Files 
 
-[Visi Repo](https://github.com/thecodechaser/Hello-Microverse)
+[Visit Repo](https://github.com/thecodechaser/Hello-Microverse)
 
 ## Download Repo
 
 [Download Repo](https://github.com/thecodechaser/Hello-Microverse/archive/refs/heads/main.zip)
-
-https://github.com/thecodechaser/Hello-Microverse
 
 
 ## Authors
