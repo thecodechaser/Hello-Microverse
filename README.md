@@ -17,7 +17,7 @@ Porject's features are added into seperate branch to keep main branch safe.
 
 [Live Demo Link](https://livedemo.com)
 
-Live Demo link will be updated after this project is approved by Code Reviewer Tseam
+Live Demo link will be updated after this project is approved by Code Reviewer Team
 
 
 ## Getting Started
@@ -25,18 +25,15 @@ Live Demo link will be updated after this project is approved by Code Reviewer T
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+## Visit And Open Files 
 
-### Setup
+[Visi Repo](https://github.com/thecodechaser/Hello-Microverse)
 
-### Install
+## Download Repo
 
-### Usage
+[Download Repo](https://github.com/thecodechaser/Hello-Microverse/archive/refs/heads/main.zip)
 
-### Run tests
-
-### Deployment
-
+https://github.com/thecodechaser/Hello-Microverse
 
 
 ## Authors
